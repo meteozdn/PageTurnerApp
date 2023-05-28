@@ -6,11 +6,12 @@ Bu projenin amacı **MVC** ve **OOP** kullanarak bir UI'ın Flutter'da klonlanma
 ![banner resmi](ekranGoruntuleri/1.png)
 
 ## Ekran Görüntüleri
+### Page1,Page2
+<img src="https://github.com/meteozdn/UIOrnekler/blob/main/ekranGoruntuleri/page1.png" width="400" height="800" />, <img src="https://github.com/meteozdn/UIOrnekler/blob/main/ekranGoruntuleri/page2.png" width="400" height="800" />
 
-![banner resmi](ekranGoruntuleri/page1.png)
+### Page3
+<img src="https://github.com/meteozdn/UIOrnekler/blob/main/ekranGoruntuleri/page3.1.png" width="400" height="800" />, <img src="https://github.com/meteozdn/UIOrnekler/blob/main/ekranGoruntuleri/page3.2.png" width="400" height="800" />
 
-![banner resmi](ekranGoruntuleri/page2.png)
 
-![banner resmi](ekranGoruntuleri/page3.1.png)
 
-![banner resmi](ekranGoruntuleri/page3.2.png)
+
