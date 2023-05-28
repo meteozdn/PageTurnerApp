@@ -82,8 +82,8 @@ class CardTheme {
   final Color smallBTColor;
   final Color midBTColor;
   final Color midBTextColor;
-
   final Color backGroundColor;
+  
   const CardTheme({
     required this.smallBTextColor,
     required this.smallBTColor,
